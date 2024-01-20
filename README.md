@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivukumara<br>A passionate Full-stack developer from India</h1>
 
 <p align="center">
-  <img src="assets/LinkedIn Banner.png" width="1000" height="300" alt="Banner Image">
+  <img src="assets/LinkedIn Banner.png" width="1000" height="250" alt="Banner Image">
 </p>
 
 - 👨‍💻  <a href="https://mern-portfolio-81dg.onrender.com" alt="portfolio" target="_blank" style="text-decoration:none;">My PORTFOLIO</a>
