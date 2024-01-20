@@ -2,6 +2,9 @@
 
 - 👨‍💻  <a href="https://mern-portfolio-81dg.onrender.com" alt="portfolio" target="_blank" style="text-decoration:none;">My PORTFOLIO</a>
 
+<h4>Dynamic and detail-oriented Full Stack (MERN Stack) Developer with a passion for leveraging technology to drive innovative solutions. 
+  Seeking a challenging position in a progressive firm that values cutting-edge skills and fosters professional growth.</h4>
+  
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SHIVUKUMARA.SHIVUKUMARA&left_color=brown"  />
