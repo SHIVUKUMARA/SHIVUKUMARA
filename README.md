@@ -64,10 +64,11 @@
 <br clear="both">
 
 <div align="center">
+  <h2 align="left">Connect with me:</h2>
   <a href="https://www.linkedin.com/in/shivukumara" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="110" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:shivukumaraspatil01@gmail.com " target="_blank">
+  <a href="https://mailto:shivukumaraspatil01@gmail.com " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="110" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/shivakumara.patil" target="_blank">
