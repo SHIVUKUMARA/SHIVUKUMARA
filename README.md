@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivukumara<br>A passionate Full-stack developer from India</h1>
 
+![Banner](Linkedin Banner.png)
+
+
+
 - 👨‍💻  <a href="https://mern-portfolio-81dg.onrender.com" alt="portfolio" target="_blank" style="text-decoration:none;">My PORTFOLIO</a>
 
 <h4>Dynamic and detail-oriented Full Stack (MERN Stack) Developer with a passion for leveraging technology to drive innovative solutions. 
