@@ -3,10 +3,14 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIVUKUMARA&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="156" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHIVUKUMARA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="155" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SHIVUKUMARA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIVUKUMARA&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHIVUKUMARA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SHIVUKUMARA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
 </div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SHIVUKUMARA.SHIVUKUMARA&left_color=brown"  />
 
 ###
 
@@ -48,16 +52,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SHIVUKUMARA.SHIVUKUMARA&left_color=brown"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SHIVUKUMARA/SHIVUKUMARA/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -74,5 +68,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="110" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SHIVUKUMARA/SHIVUKUMARA/output/snake.svg" alt="Snake animation" />
 
 ###
