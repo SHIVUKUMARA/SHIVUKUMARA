@@ -71,6 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SHIVUKUMARA/SHIVUKUMARA/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SHIVUKUMARA/SHIVUKUMARA//blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
