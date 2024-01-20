@@ -93,3 +93,5 @@
 <img src="https://raw.githubusercontent.com/SHIVUKUMARA/SHIVUKUMARA/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<!-- rgb(197 187 187 / 90%) -->
