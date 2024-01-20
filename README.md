@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivukumara<br>A passionate Full-stack developer from India</h1>
 
-- 👨‍💻 My PORTFOLIO : [https://mern-portfolio-81dg.onrender.com](https://mern-portfolio-81dg.onrender.com)
+- 👨‍💻  <a href="https://mern-portfolio-81dg.onrender.com" alt="portfolio" target="_blank" style="text-decoration:none;">My PORTFOLIO</a>
 
 ###
 
