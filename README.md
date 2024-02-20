@@ -90,7 +90,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SHIVUKUMARA/SHIVUKUMARA/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SHIVUKUMARA/SHIVUKUMARA/SHIVUKUARA-patch1/snake.svg" alt="Snake animation" />
 
 ###
 
