@@ -4,7 +4,7 @@
   <img src="assets/LinkedIn Banner.png" width="1000" height="250" alt="Banner Image">
 </p>
 
-- 👨‍💻  <a href="https://myportfolio-gl6y.onrender.com" alt="portfolio" target="_blank" style="text-decoration:none;">My PORTFOLIO</a>
+- 👨‍💻  <a href="https://shivukumara-portfolio.netlify.app/" alt="portfolio" target="_blank" style="text-decoration:none;">My PORTFOLIO</a>
 
 <h4>Dynamic and detail-oriented Full Stack (MERN Stack) Developer with a passion for leveraging technology to drive innovative solutions. 
   Seeking a challenging position in a progressive firm that values cutting-edge skills and fosters professional growth.</h4>
