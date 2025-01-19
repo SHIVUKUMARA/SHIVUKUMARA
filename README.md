@@ -4,11 +4,10 @@
   <img src="assets/LinkedIn Banner.png" width="1000" height="250" alt="Banner Image">
 </p>
 
-- 👨‍💻  <a href="https://shivukumara-portfolio.netlify.app/" alt="portfolio" target="_blank" style="text-decoration:none;">My PORTFOLIO</a>
+<h1>👨‍💻  <a href="https://shivukumara-portfolio.netlify.app/" alt="portfolio" target="_blank" style="text-decoration:none;">My PORTFOLIO</a></h1>
 
-<h4>Dynamic and detail-oriented Full Stack (MERN Stack) Developer with a passion for leveraging technology to drive innovative solutions. 
-  Seeking a challenging position in a progressive firm that values cutting-edge skills and fosters professional growth.</h4>
-  
+<h4>Recent graduate and Fresher with expertise in Java Full-Stack and MERN stack development, experienced in building scalable web applications using Java, Spring Boot, React.js, and Node.js. Committed to delivering optimized solutions and enhancinguser experiences in diverse project environments.Passionate aboutlearning modern technologies and contributing to innovative development teams.</h4>
+
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SHIVUKUMARA.SHIVUKUMARA&left_color=brown"  />
@@ -51,9 +50,17 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="20" />
@@ -64,6 +71,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
