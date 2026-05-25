@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivukumara<br>A passionate Full-stack developer from India</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shivukumara<br>A passionate Full-stack developer from India</h1>
 
 <p align="center">
   <img src="assets/LinkedIn Banner.png" width="1000" height="250" alt="Banner Image">
@@ -6,7 +6,34 @@
 
 <h1>👨‍💻  <a href="https://shivukumara-portfolio.netlify.app/" alt="portfolio" target="_blank" style="text-decoration:none;">My PORTFOLIO</a></h1>
 
-<h4>Recent graduate and Fresher with expertise in Java Full-Stack and MERN stack development, experienced in building scalable web applications using Java, Spring Boot, React.js, and Node.js. Committed to delivering optimized solutions and enhancinguser experiences in diverse project environments.Passionate aboutlearning modern technologies and contributing to innovative development teams.</h4>
+<h4>Recent graduate and Fresher with expertise in Java Full-Stack and MERN stack development, experienced in building scalable web applications using Java, Spring Boot, React.js, and Node.js. Committed to delivering optimized solutions and enhancinguser experiences in diverse project environments.Passionate aboutlearning modern technologies and contributing to innovative development teams.</h4> -->
+<h1 align="center">
+  Shivukumara
+</h1>
+
+<h3 align="center">
+  Junior Software Developer | Full-Stack Developer | Java & MERN Stack
+</h3>
+
+<p align="center">
+  <img src="assets/LinkedIn Banner.png" width="1000" height="250" alt="Banner Image">
+</p>
+
+<h3>
+  👨‍💻 
+  <a href="https://shivukumara-portfolio.netlify.app/" target="_blank" style="text-decoration:none;">
+    View My Portfolio
+  </a>
+</h3>
+
+<p align="center">
+Software Developer with hands-on experience in developing enterprise applications and scalable web solutions. 
+Currently working as a Junior Software Developer at VisionVyas Technologies Pvt Ltd, contributing to ERP systems, 
+customized CRM tools, and advanced Omni-channel E-Commerce platforms. Skilled in Java Full-Stack and MERN stack 
+development, with expertise in Java, Spring Boot, React.js, Node.js, PHP, CodeIgniter, AJAX, JavaScript, REST APIs, 
+MySQL, and database-driven applications. Passionate about building efficient, scalable, and user-focused solutions 
+while continuously learning modern technologies.
+</p>
 
 ###
 
